@@ -1,0 +1,6 @@
+{
+  "name": "Paal Ledger",
+  "description": "Offline-first milk shop management system for Aavin and Chakra products, tracking stock, sales, commissions, cash, and profit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
